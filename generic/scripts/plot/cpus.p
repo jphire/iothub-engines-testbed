@@ -18,7 +18,7 @@ set linetype 2 lc rgb '#555555'
 set linetype 3 lc rgb '#999999'
 set linetype 4 lc rgb '#eeeeee'
 
-set output '../../../../src/Figures/cpus.pdf'
+set output '../../figures/cpus.pdf'
 #set output '../../results/latest/plot/cpus.pdf'
 
 #set size 1.0, 1.0

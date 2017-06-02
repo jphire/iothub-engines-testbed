@@ -1,0 +1,7 @@
+Linux 3.19.0-56-generic (aegis) 	04.04.2016 	_x86_64_	(1 CPU)
+
+16.04.13      UID       PID    %usr %system  %guest    %CPU   CPU  Command
+16.04.14     1000      5778   12,12    0,00    0,00   12,12     0  node
+16.04.15     1000      5778    0,00    0,00    0,00    0,00     0  node
+
+Average:     1000      5778    6,00    0,00    0,00    6,00     -  node

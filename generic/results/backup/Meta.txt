@@ -1,0 +1,4 @@
+Amount of requests/server/method: 200
+Hardware: Nummela office desktop, Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz, 2 Cores/processor
+Sofware: Local IoThub, NodeDuktape and NodeJS servers running
+ 

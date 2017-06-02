@@ -18,7 +18,7 @@ set linetype 2 lc rgb '#555555'
 set linetype 3 lc rgb '#999999'
 set linetype 4 lc rgb '#eeeeee'
 
-set output '../../../../src/Figures/mems.pdf'
+set output '../../figures/mems.pdf'
 
 set yrange [0:10]
 
