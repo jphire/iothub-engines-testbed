@@ -22,7 +22,7 @@ set output '../../figures/mems.pdf'
 
 set yrange [0:10]
 
-set grid x y
+#set grid x y
 
 set format y "%.0f%%"
 
@@ -34,7 +34,7 @@ set ytics 5
 
 set title "Mean memory usage"
 
-plot '../../results/latest/new-plots/mems.dat' u 2:xtic(1) ti 'Quicksort' ls 1, \
+plot '../../results/latest/mems.dat' u 2:xtic(1) ti 'Quicksort' ls 1, \
 '' using 3 ti 'Newton' ls 3,  \
 '' using 4 ti 'Fibonacci' ls 4
 

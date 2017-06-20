@@ -28,7 +28,7 @@ set yrange [80:100]
 
 #set logscale y 2
 
-set grid x y
+#set grid x y
 
 set format y "%.0f%%"
 
@@ -40,7 +40,7 @@ set ytics 5
 
 set title "Mean CPU usage"
 
-plot '../../results/latest/new-plots/cpus.dat' u 2:xtic(1) ti 'Quicksort' ls 1, \
+plot '../../results/latest/cpus.dat' u 2:xtic(1) ti 'Quicksort' ls 1, \
 '' u 3 ti 'Newton' ls 3,  \
 '' u 4 ti 'Fibonacci' ls 4
 
