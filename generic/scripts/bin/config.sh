@@ -1,3 +1,4 @@
+#!/bin/bash
 # declare files for scripts
 
 declare -A kahvihubScripts=(["fibonacci"]="fibonacci-sm.js" ["quicksort"]="quicksort-sm.js" ["newton"]="newton-sm.js")
